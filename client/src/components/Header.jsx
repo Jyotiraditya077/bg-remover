@@ -18,12 +18,12 @@ const Header = () => {
       backgroundImage: 'linear-gradient(to right, #1b354c, #33948a, #2a875f, #4db98a, #5ab9b1)' 
     }}
   >
-    background
+    background 
   </span> 
-  from <br className='max-md:hidden' /> images for free.
+  <span> </span>from <br className='max-md:hidden' /> images for free.
 </h1>
 
-                <p className='my-6 text-[15px] text-gray-500'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br className='max-sm:hidden' /> Lorem Ipsum has been the industry's standard dummy text ever.</p>
+                <p className='my-6 text-[15px] text-gray-500'>Easily remove backgrounds from your images with just a few clicks!<br className='max-sm:hidden' /> Our free, fast, and efficient tool helps you get clean, transparent backgrounds, ready for any project.</p>
                 <div>
     <input onChange={e => removeBG(e.target.files[0])} type="file" id="upload1" accept='image/*' hidden />
     <label 
