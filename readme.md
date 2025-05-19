@@ -31,7 +31,7 @@
 
 ## Demo
 
-🔗 **Live App**: [bg-removeryou.vercel.app](https://bg-removeryou.vercel.app)
+🔗 **Live App**: [Bg-remover](https://bg-removeryou.vercel.app)
 
 ---
 
