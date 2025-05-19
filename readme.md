@@ -1,7 +1,7 @@
 # BG Remover
 
 <p align="center">
-  <img src="https://github.com/Jyotiraditya077/bg-remover/blob/main/client/src/assets/logo.jpg" alt="BG Remover Logo" width="250px">
+  <img src="https://github.com/Jyotiraditya077/bg-remover/blob/main/client/src/assets/logo.jpg" target="_blank" alt="BG Remover Logo" width="250px">
 </p>
 
 **BG Remover** is a Full Stack AI SaaS application that enables users to remove backgrounds from images with just one click. Built with the MERN stack and integrated with AI-powered image processing, this app offers seamless user experience, authentication, credit system, and online payment integration.
